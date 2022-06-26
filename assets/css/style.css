@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(69, 69, 69) !important;
+    color: beige !important;
+}
+.content{
+    /* position: absolute; */
+    /* left: 50%; */
+    /* transform: translate(-50%); */
+    margin: 10% 3%;
+    border: 0.1px solid rgb(175, 175, 175);
+    background-color: rgb(107, 107, 107) ;
+    filter: drop-shadow(1px 1px 10px rgb(34, 34, 34));
+}
+.container h1{
+    border-bottom: .2rem solid rgb(69, 69, 69);
+    padding: 2rem;
+}
+textarea{
+    color: black !important;
+}
+h1{
+    text-align: center;
+
+}
